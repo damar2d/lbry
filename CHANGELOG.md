@@ -10,7 +10,7 @@ at anytime.
 ## [Unreleased]
 ### Added
   * Missing docstring for `blob_list`
-  *
+  * Added unit tests for CryptBlob.py
 
 ### Changed
   * Change `max_key_fee` setting to be a dictionary with values for `currency` and `amount`
